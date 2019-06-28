@@ -4,6 +4,3 @@ title:  "New Post"
 date:   2019-06-28 24:31:03 +0900
 categories: jekyll update
 ---
-
-
-test
